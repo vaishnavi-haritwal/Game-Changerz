@@ -1,0 +1,1 @@
+Develop a mobile app to promote a player to visit the casino without any gambling.
